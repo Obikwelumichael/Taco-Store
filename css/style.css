@@ -200,3 +200,11 @@ caption {
     margin-bottom: 0.25em;
 
 }
+
+/* Menu */
+nav ul{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    gap: 20px;
+}
